@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 4px;
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+
+button {
+  cursor: pointer;
+}
